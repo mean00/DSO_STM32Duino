@@ -1,7 +1,9 @@
+Warning :
+==========
+This is being obsoleted by the   [lnDSO150](https://www.github.com/mean00/lnDSO150) project
+
 DSOSTM32Duino
 =============
-
-Warning : This is slowly obsoleted by the lnDSO150 project on github
 
 This is a new firmware for the DSO 150/DSO shell cheap oscilloscope.
 It is using the framework provided by the  (very nice) STM32duino project, R Clark version.
